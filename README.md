@@ -7,15 +7,11 @@ Collects per product:
 
 Output: aboutyou_mens_clothing.csv  (or custom filename via --output)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Requirements
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
     pip install playwright
     playwright install chromium
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Usage
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Usage:
 Scrape everything (headless)
 python aboutyou_scraper.py
 
